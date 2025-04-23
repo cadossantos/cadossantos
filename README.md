@@ -43,9 +43,10 @@ stack = {
 
 Se você também está reinventando sua carreira através de código, vamos conversar!
 Aberto para:
-- Projetos de automação customizados
-- Consultorias técnicas em Python ou IA aplicada
-- Parcerias com devs BR / LATAM
+• Projetos sob medida (1 mês+)
+• Consultorias pontuais ("como resolver X?")
+• Parcerias em produtos digitais
+• Codar por curiosidade e diversão
 
 
 > _“Código bom não precisa de tradução... mas se precisar, o Ctrl+C resolve.”_
