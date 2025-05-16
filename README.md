@@ -1,23 +1,23 @@
-# 👋 [Cláud.io] | Python • Automation • Applied AI
+# [Cláud.io] | Python • Automation • Applied AI
 
 *"Brazilian developer here! If Portuguese isn't your native language, feel free to use your browser's translator. Everything below is in **pt-br** – because code is universal, but my roots are non-negotiable."*
 
 ---
 
-### 🛠️ Tecnologias que Domino
+### Tecnologias que Domino
 
 ```python
 stack = {
     "automação": ["Selenium", "Playwright", "BeautifulSoup"],
-    "dados": ["Pandas", "PostgreSQL", "Apache Airflow"],
+    "dados": ["Pandas", "PostgreSQL"],
     "IA": ["LangChain", "LLMs", "RAG"],
-    "deploy": ["Docker", "Linux", "Streamlit Cloud"]
+    "deploy": ["Docker", "Linux", "Google Cloud Console"]
 }
 ```
 
 ---
 
-### 🚀 Projetos Destacados
+### Projetos Destacados
 
 **1. Educational Video Downloader**  
 *Script em Python para download de vídeos educacionais via `.m3u8` com FFmpeg.*  
@@ -31,7 +31,7 @@ stack = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadossantos&show_icons=true&theme=radical)
 
@@ -39,7 +39,7 @@ stack = {
 
 ---
 
-### 🤝 Vamos Conversar?
+### Vamos Conversar?
 
 Se você também está reinventando sua carreira através de código, vamos conversar!
 Aberto para:
