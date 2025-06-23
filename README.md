@@ -1,33 +1,37 @@
-# [Cláud.io] | Python • Automation • Applied AI
+# [Cláud.io] | Python • BI • Automation • Applied AI
 
 *"Brazilian developer here! If Portuguese isn't your native language, feel free to use your browser's translator. Everything below is in **pt-br** – because code is universal, but my roots are non-negotiable."*
 
 ---
 
-### Tecnologias que Domino
+Especialista em transformar processos ineficientes em soluções tecnológicas que geram vantagem competitiva.
+Identifico gargalos operacionais e desenvolvo automações que eliminam retrabalhos. Combino visão de negócios com conhecimento técnico para criar ferramentas que impactam diretamente os resultados das empresas.
+
+**Abordagem:**
+- Análise detalhada de processos existentes
+- Consulta direta com usuários finais
+- Desenvolvimento de soluções personalizadas
+- Implementação incremental com feedback contínuo
+
+### Resultados Recentes
+
+**Bemacon Materiais de Construção:**
+- Sistema de Cotações: Rankings automáticos de fornecedores
+- Painel de NF-e: Previsibilidade financeira via extração de dados
+- Dashboard de Títulos: Substituição de análise manual por visualização interativa
+
+Resultado: 3 sistemas implementados na primeira semana, eliminando controles manuais e criando visibilidade para tomada de decisão.
+
+### Stack do dia a dia
 
 ```python
 stack = {
-    "automação": ["Selenium", "Playwright", "BeautifulSoup"],
+    "automação": ["Selenium", "Pyautogui", "BeautifulSoup"],
     "dados": ["Pandas", "PostgreSQL"],
-    "IA": ["LangChain", "LLMs", "RAG"],
+    "IA": ["LangChain", "LangGraph", "RAG"],
     "deploy": ["Docker", "Linux", "Google Cloud Console"]
 }
 ```
-
----
-
-### Projetos Destacados
-
-**1. Educational Video Downloader**  
-*Script em Python para download de vídeos educacionais via `.m3u8` com FFmpeg.*  
-✅ Tecnologias: Selenium | FFmpeg | Persistência de Cookies  
-🔥 Resultado: +300 vídeos baixados e organizados localmente
-
-**2. Painel interativo para análise de inscrições de Grantmaking**  
-*Dashboard em Streamlit para filtrar, visualizar e exportar propostas enviadas por organizações da sociedade civil em um edital participativo.*  
-✅ Tecnologias: Streamlit | Pandas | Google Sheets API  
-🔥 Impacto: +200 propostas processadas de forma rápida, visual e acessível
 
 ---
 
@@ -41,12 +45,11 @@ stack = {
 
 ### Vamos Conversar?
 
-Se você também está reinventando sua carreira através de código, vamos conversar!
+Disponível para projetos de automação de processos e análise de gargalos operacionais.
 Aberto para:
 • Projetos sob medida (1 mês+)
 • Consultorias pontuais ("como resolver X?")
 • Parcerias em produtos digitais
 • Codar por curiosidade e diversão
 
-
-> _“Código bom não precisa de tradução... mas se precisar, o Ctrl+C resolve.”_
+*Desenvolvo vantagem competitiva através da automação inteligente de processos.*
