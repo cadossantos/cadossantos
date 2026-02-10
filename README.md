@@ -1,4 +1,4 @@
-# [Cláud.io] | Python • BI • Automation • Applied AI
+# Python • BI • Automation • Applied AI
 
 *"Brazilian developer here! If Portuguese isn't your native language, feel free to use your browser's translator. Everything below is in **pt-br** – because code is universal, but my roots are non-negotiable."*
 
