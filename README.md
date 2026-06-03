@@ -1,11 +1,10 @@
-# Python • BI • Automation • Applied AI
-
-*"Brazilian developer here! If Portuguese isn't your native language, feel free to use your browser's translator. Everything below is in **pt-br** – because code is universal, but my roots are non-negotiable."*
+# Python • Linux • Automation •
+*"Brazilian developer here! If Portuguese isn't your native language, feel free to use your browser's translator. Everything below is in **pt-br** – because code is universal."*
 
 ---
 
-Especialista em transformar processos ineficientes em soluções tecnológicas que geram vantagem competitiva.
-Identifico gargalos operacionais e desenvolvo automações que eliminam retrabalhos. Combino visão de negócios com conhecimento técnico para criar ferramentas que impactam diretamente os resultados das empresas.
+Sou bom em transformar processos burros em soluções inteligentes que devolvem o tempo e a paz que um ambiente de trabalho facilmente leva.
+Encontro os gargalos e desenvolvo automações que eliminam retrabalhos. Combino escuta, observação e conhecimento técnico para criar ferramentas que impactam diretamente os resultados das rotinas operacionais.
 
 **Abordagem:**
 - Análise detalhada de processos existentes
@@ -13,14 +12,6 @@ Identifico gargalos operacionais e desenvolvo automações que eliminam retrabal
 - Desenvolvimento de soluções personalizadas
 - Implementação incremental com feedback contínuo
 
-### Resultados Recentes
-
-**Bemacon Materiais de Construção:**
-- Sistema de Cotações: Rankings automáticos de fornecedores
-- Painel de NF-e: Previsibilidade financeira via extração de dados
-- Dashboard de Títulos: Substituição de análise manual por visualização interativa
-
-Resultado: 3 sistemas implementados na primeira semana, eliminando controles manuais e criando visibilidade para tomada de decisão.
 
 ### Stack do dia a dia
 
@@ -28,20 +19,13 @@ Resultado: 3 sistemas implementados na primeira semana, eliminando controles man
 stack = {
     "automação": ["Selenium", "Pyautogui", "BeautifulSoup"],
     "dados": ["Pandas", "PostgreSQL"],
-    "IA": ["LangChain", "LangGraph", "RAG"],
     "deploy": ["Docker", "Linux", "Google Cloud Console"]
 }
 ```
 
 ---
 
-### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadossantos&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadossantos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### Vamos Conversar?
 
